@@ -1,4 +1,6 @@
-# RGBA Converter
+# RGBA Converter 
+
+Working example here https://vinothkumar1010.github.io/rgbaconverter/
 
 Created to convert Hexa decimal value to RGBA value
 
